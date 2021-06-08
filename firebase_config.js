@@ -1,4 +1,4 @@
-var config={  apiKey: "AIzaSyDJOwVNFhy2Dq256x3FFLLODEjOPHnj_KI",
+var config={apiKey: "AIzaSyDJOwVNFhy2Dq256x3FFLLODEjOPHnj_KI",
   authDomain: "levangiangxyz-8943a.firebaseapp.com",
   databaseURL: "https://levangiangxyz-8943a.firebaseio.com",
   projectId: "levangiangxyz-8943a",
